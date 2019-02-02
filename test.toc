@@ -1,0 +1,71 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{I\hspace {1em}Geology}{4}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Introduction\IeC {\nobreakspace }: What is a cave\IeC {\nobreakspace }?}{5}{section*.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Karst Rocks}{7}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Cave formation}{9}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Unusual caves}{11}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Special Features of Karst Caves : Stalactites/Stalagmites}{13}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Experimental protocol}{16}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{Introduction}{16}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Observations}{17}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Gravitational flow speleothems\IeC {\nobreakspace }: flowstone, draperies, rimstone}{22}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Capillary flow speleothems\IeC {\nobreakspace }: shields, cave coral (popcorn), eccentrics}{24}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Pool speleothems\IeC {\nobreakspace }: spars, shelfstone, cave (calcite) raft, cave pearls}{26}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}The stuff in cave}{28}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Crystal}{28}{section.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Lakes}{28}{section.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Paintings}{29}{section.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.4}Rock salt}{30}{section.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Destructive speleology}{31}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{II\hspace {1em}Biology}{35}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}Cave\IeC {\textquoteright }s conditions}{36}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}life forms in caves: their physiology and behaviours}{40}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}Food Chain}{43}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}Metabolisms}{46}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.1}Bacteria metabolisms}{46}{section.12.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{Light in caves}{53}{section*.53}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {12.2}Evolution and Regression}{55}{section.12.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{56}{section*.58}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{57}{section*.60}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{}{57}{section*.62}
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{The introduction of new species by human activity}{58}{section*.64}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}Trogloxenes metabolisms}{59}{chapter.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.1}Echolocation}{59}{section.13.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.2}Hibernation}{63}{section.13.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {13.3}The impact of human activity on bat population}{66}{section.13.3}
